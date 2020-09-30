@@ -20,3 +20,4 @@ CCountingSem::~CCountingSem()
 }
 
 
+return 0
